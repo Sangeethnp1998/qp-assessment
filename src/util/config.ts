@@ -1,0 +1,1 @@
+export const JWT_SECRET_KEY = "hjbejghbsd9829734bsahbq38yu9bef83y5bew4yt98"
